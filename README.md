@@ -1,2 +1,15 @@
-# House-hunting
-Three best variants of flats were chosen  with the help of exponential normalization.  The following criteria were taken into consideration: the lowest price, the  closest underground, the number of metro stations.  
+# House-hunting/Выбор квартиры
+
+### Содержание
+* Описание
+* Ссылки
+
+**Описание**
+
+Набор данных представляет собой критерии для выбора квартиры, где "ID" - номер жилья, "DISTANCE" - расстояние от метро пешком(в минутах), "STOP_COUNT"-количество остановок до места учебы/работы, "COST" - ежемесячная цена аренды(в тысячах рублей). Необходимо выбрать три наилучших варианта с наименьшей стоимостью, наименьшим количеством времени до метро и минимальным количеством проезжаемых станций.
+
+**Сcылки**
+
+Отчет был построен на основе данных:
+
+* [Ссылка на массив данных](https://courses.openedu.ru/assets/courseware/v1/56e6a86e4d025ce9847e52b375f8ac6b/asset-v1:ITMOUniversity+DATANTECH2035+fall_2021_3+type@asset+block/task4_372666.csv)
